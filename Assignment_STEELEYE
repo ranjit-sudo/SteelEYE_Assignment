@@ -1,5 +1,7 @@
 Q1-Explain what the simple List component does.
-Ans- List components are used to display data in an ordered fashion.
+Ans- List components are used to display data in an ordered fashion.It is used whenever we required to display a list of items or links on website.
+     For example it is used in creating a dynamic list of child pages.
+     
 
 Q2-What problems/warnings are there with code?
 Ans- The following problems were there with the code:
