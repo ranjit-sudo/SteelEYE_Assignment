@@ -17,7 +17,7 @@ Ans- I tried to resolve all the errors and warnings.The first mistake which I sa
 
 	//CORRECT CODE
 
-```javascript
+```
 	import React, { useState, useEffect, memo } from 'react';
 	import PropTypes from 'prop-types';
 
